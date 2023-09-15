@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+}
+.headers{
+  display: flex;
+  justify-content: space-between;
+}
+.headers h2{
+  border: 5px solid purple;
+  width: 25%;
+  margin: 20px;
+}
+
+.content{
+  text-align: left;
+  margin: 20px 20%;
+  border: 5px solid red;
+  padding: 15px 20px;
+  color: aliceblue;
+  background-color: dimgrey;
+}
